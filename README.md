@@ -11,8 +11,8 @@
 # visualizing eye data on the world camera
 1. for this you need to add a new panel. You can add as many panels as you need.
 2. ****please set the frames first before doing anything else.
-![setFrames](https://user-images.githubusercontent.com/63812178/219811109-8c92eb2c-a2c5-4dca-b2ef-bcdf7987a073.PNG)
-3. You can choose to either display the current frame in the videoplayer or you can do a z-projection for the selected frames.
+3. ![setFrames](https://user-images.githubusercontent.com/63812178/219811109-8c92eb2c-a2c5-4dca-b2ef-bcdf7987a073.PNG)
+4. You can choose to either display the current frame in the videoplayer or you can do a z-projection for the selected frames.
 ![Panel](https://user-images.githubusercontent.com/63812178/219810948-16eca7da-4be9-4b57-9c9b-3454c6bdf723.PNG)
 4. Once you have set frames and done with the z-projection, you can plot the current data
 ![Panel_w_plot](https://user-images.githubusercontent.com/63812178/219811026-01dff165-f341-4e83-87ea-a24f9caf26c3.PNG)
