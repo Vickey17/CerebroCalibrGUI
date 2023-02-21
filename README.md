@@ -24,3 +24,7 @@
 ![Plot_Settings](https://user-images.githubusercontent.com/63812178/219811078-4a44387d-4903-449d-9037-4babf1b9219b.PNG)
 6. You can manuplate the scale and offset of the eye data using the transform data under the plot dropdown menu of the panel. 
 ![transforms_panel](https://user-images.githubusercontent.com/63812178/219811219-4c571160-6758-46de-8efd-80abd4acb106.PNG)
+
+# export data
+1. you can export the transformed data from the file selector menu. It will open up a dialog box to allow you to select destination for saving the processed data in the following format. (a)eye_frame_no,(b)eye_timestamp,(c)eyeX,(d)eyeY,(e)wrld_frame_no,(f)wrld_timestamp
+2. You can also export a video with eye data overlayed on it. The marker size and characteristics can be set using the "plot controls" menu.
