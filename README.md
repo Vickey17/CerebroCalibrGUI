@@ -1,5 +1,5 @@
 # CerebroCalibrGUI
-<b>Description: Eye cam and world cam calibration GUI for CEREBRO (The Head-Mounted Eye-Tracker)</b># Requirements:
+<b>Description: Eye cam and world cam calibration GUI for CEREBRO (The Head-Mounted Eye-Tracker)</b>
 # Requirements:
 1. A video from the world camera of the animal
 2. timestamps for each frame of the world camera video as a row in CSV format.Note: These time stamps should be synchronized with the eye camera.
