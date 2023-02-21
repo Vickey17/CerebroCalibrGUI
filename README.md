@@ -9,22 +9,21 @@
 2. After that, please load the eye data and world cam timestamps in the correct format (csv).
 3. If you want to plot eye data on the world cam, you will have to preprocess the eye data.
 4. The status of if all the steps are done correctly can be seen in the console output window and Info panel. 
-![Main](https://user-images.githubusercontent.com/63812178/219810039-a2f3211d-7c3a-4d0d-b5bf-f83e762a75b4.PNG)
+5. ![Main_2](https://user-images.githubusercontent.com/63812178/220444851-9a191f99-255c-41f7-95a7-6bf73dbac733.PNG)
 ** essentially this is all you need to get started. 
 
 # visualizing eye data on the world camera
 1. for this you need to add a new panel. You can add as many panels as you need.
-2. ****please set the frames first before doing anything else.
-3. ![setFrames](https://user-images.githubusercontent.com/63812178/219811109-8c92eb2c-a2c5-4dca-b2ef-bcdf7987a073.PNG)
-4. You can choose to either display the current frame in the videoplayer or you can do a z-projection for the selected frames.
-![Panel](https://user-images.githubusercontent.com/63812178/219810948-16eca7da-4be9-4b57-9c9b-3454c6bdf723.PNG)
-4. Once you have set frames and done with the z-projection, you can plot the current data
-![Panel_w_plot](https://user-images.githubusercontent.com/63812178/219811026-01dff165-f341-4e83-87ea-a24f9caf26c3.PNG)
-5. you can change the styling of your plots using the plot settings panel on the main form.
-![Plot_Settings](https://user-images.githubusercontent.com/63812178/219811078-4a44387d-4903-449d-9037-4babf1b9219b.PNG)
-6. You can manuplate the scale and offset of the eye data using the transform data under the plot dropdown menu of the panel. 
-![transforms_panel](https://user-images.githubusercontent.com/63812178/219811219-4c571160-6758-46de-8efd-80abd4acb106.PNG)
-
+2. ![Panel_2](https://user-images.githubusercontent.com/63812178/220445029-68bb6139-6566-4797-857a-7b29235e444a.PNG)
+3. ****please set the frames first before doing anything else.
+4. ![setFrames_2](https://user-images.githubusercontent.com/63812178/220444948-cadd7023-55a7-47b5-83cc-25dd49f6312f.PNG)
+5. You can choose to either display the current frame in the videoplayer or you can do a z-projection for the selected frames.
+6. Once you have set frames and done with the z-projection, you can plot the current data
+7. ![Panel_w_plot_2](https://user-images.githubusercontent.com/63812178/220445158-4cf2c54a-32f6-497c-a6da-6a2665395245.PNG)
+8. you can change the styling of your plots using the plot settings panel on the main form.
+9. ![Plot_Settings_2](https://user-images.githubusercontent.com/63812178/220445207-c91782df-eb33-4b42-9e7b-4decf42e0d7b.PNG)
+10. You can manuplate the scale and offset of the eye data using the transform data under the plot dropdown menu of the panel. 
+11. ![transforms_panel_2](https://user-images.githubusercontent.com/63812178/220445253-dd487230-bfb3-40bc-a849-e43c4937e165.PNG)
 # export data
 1. you can export the transformed data from the file selector menu. It will open up a dialog box to allow you to select destination for saving the processed data in the following format. (a)eye_frame_no,(b)eye_timestamp,(c)eyeX,(d)eyeY,(e)wrld_frame_no,(f)wrld_timestamp
 2. You can also export a video with eye data overlayed on it. The marker size and characteristics can be set using the "plot controls" menu.
