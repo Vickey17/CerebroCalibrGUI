@@ -10,7 +10,7 @@
 3. If you want to plot eye data on the world cam, you will have to preprocess the eye data.
 4. The status of if all the steps are done correctly can be seen in the console output window and Info panel. 
 5. ![Main_2](https://user-images.githubusercontent.com/63812178/220444851-9a191f99-255c-41f7-95a7-6bf73dbac733.PNG)
-** essentially this is all you need to get started. 
+6. ** essentially this is all you need to get started. 
 
 # visualizing eye data on the world camera
 1. for this you need to add a new panel. You can add as many panels as you need.
